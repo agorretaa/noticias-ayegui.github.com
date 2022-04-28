@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"> 
+    <channel>   
+        <title>Canal RSS Ayegui </title>   
+        <link> https://www.ayegui.org/ </link>
+        <description> Noticias de Ayegui  </description>
+
+     <item>
+            <title> Noticias de Ayegui </title>
+            <link> https://www.ayegui.org/ </link>
+            <description>Noticias sobre Ayegui</description>
+            <guid> https://www.ayegui.org/</guid> 
+            <pubDate>2022/04/27T18:00:00</pubDate>
+     </item>
+     <item> 
+            <title> Noticias sobre Ayegui </title>
+            <link> http://127.0.0.1:5501/html/index.html </link>
+            <description>Noticias sobre Ayegui</description>
+            <author>Ander.es.777@gmail.com</author>
+
+     </item>
+
+     <item> 
+            <title> Lugares de Ayegui</title>
+            <link> http://127.0.0.1:5501/html/index.html </link>
+            <description>Lugares para visitar en Ayegui</description>
+           
+     </item>
+
+    </channel>
+</rss>
